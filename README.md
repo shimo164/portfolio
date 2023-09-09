@@ -1,3 +1,4 @@
+# Portfolio
 ## Chrome拡張
 
 - [re:Name FavBar](https://chrome.google.com/webstore/detail/rename-favbar/djibddceopnloddkfmgekaejflcnadli)
@@ -8,6 +9,8 @@
   - AWS Lambdaのコンソール、ログに直接アクセスする
 - [change-website-lang](https://github.com/shimo164/change-website-lang)
   - Webページの言語設定をスクロール場所を変えずに変更
+- [Rich Text Copy](https://github.com/shimo164/copy-text-and-url)
+  - 選択した部分とタブのURLでリッチテキストリンクを作る
 
 ## Tech Blog
 
