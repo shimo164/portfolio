@@ -5,12 +5,12 @@
   - AWSコンソールのお気に入りバーの表示名をカスタマイズする
 - [Tab Closer](https://chrome.google.com/webstore/detail/tab-closer/cmcmmpklddmejocjlienfddkdlggccbd)
   - 指定のタブを自動で消す
-- [QuickAWS Linker](https://github.com/shimo164/quick-aws-linker)
+- [QuickAWS Linker](https://github.com/shimo164/quick-aws-linker) (beta)
   - AWS Lambdaのコンソール、ログに直接アクセスする
-- [change-website-lang](https://github.com/shimo164/change-website-lang)
+- [change-website-lang](https://github.com/shimo164/change-website-lang) (beta)
   - Webページの言語設定をスクロール場所を変えずに変更
-- [Rich Text Copy](https://github.com/shimo164/copy-text-and-url)
-  - 選択した部分とタブのURLでリッチテキストリンクを作る
+- [Rich Text Copy](https://github.com/shimo164/rich-text-copy) (beta)
+  - 選択した文字列と、タブのURLでリッチテキストリンクを作る
 
 ## Tech Blog
 
