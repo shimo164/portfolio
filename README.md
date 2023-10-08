@@ -9,7 +9,7 @@
   - AWS Lambdaのコンソール、ログに直接アクセスする
 - [change-website-lang](https://github.com/shimo164/change-website-lang) (beta)
   - Webページの言語設定をスクロール場所を変えずに変更
-- [Rich Text Copy](https://github.com/shimo164/rich-text-copy) (beta)
+- [Rich Text Copy](https://chrome.google.com/webstore/detail/rich-text-copy/aidldbbgafbfbooldgdpbpgkabdojfge) 
   - 選択した文字列と、タブのURLでリッチテキストリンクを作る
 
 ## Tech Blog
