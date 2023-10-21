@@ -11,7 +11,7 @@
   - Webページの言語設定をスクロール場所を変えずに変更
 - [Rich Text Copy](https://chrome.google.com/webstore/detail/rich-text-copy/aidldbbgafbfbooldgdpbpgkabdojfge) 
   - 選択した文字列と、タブのURLでリッチテキストリンクを作る
-- [AWS Favicon Fixer](https://github.com/shimo164/aws-favicon-fixer)
+- [AWS Favicon Fixer](https://github.com/shimo164/aws-favicon-fixer) (beta)
   - AWS コンソールのChromeタブの表示を変更する
 
 ## Tech Blog
