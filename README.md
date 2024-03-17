@@ -12,7 +12,9 @@
 - [Rich Text Copy](https://chrome.google.com/webstore/detail/rich-text-copy/aidldbbgafbfbooldgdpbpgkabdojfge) 
   - 選択した文字列と、タブのURLでリッチテキストリンクを作る
 - [AWS Favicon Fixer](https://github.com/shimo164/aws-favicon-fixer) (beta)
-  - AWS コンソールのChromeタブの表示を変更する
+  - AWS コンソールのChromeタブのアイコン表示を変更する
+- [AWS Doc Sidebar Toggler](https://github.com/shimo164/awsdoc-sidebar-toggler) (beta)
+  - AWS ドキュメントのサイドバーをトグる
 
 ## Tech Blog
 
@@ -28,4 +30,8 @@
 
 ### Tech Blog 個人的おすすめ
 
-TODO
+- [Lambdaの暴走をCloudWatchAlarmを使って止める(英語)](https://dev.to/aws-builders/suspend-any-lambda-functions-using-a-single-cloudwatch-alarm-na9)
+- [AWS Budgetのアラート設定を自動的にずらしていく(英語)](https://dev.to/aws-builders/aws-budgets-update-alert-thresholds-unlimitedly-with-lambda-5e7h)
+- [EventBridgeをhh:mm:00のような時間で起動する(英語)](https://dev.to/aws-builders/trigger-precisely-at-hhmm00-with-eventbridge-and-lambda-1ia5)
+- [Glueのバグを見つけた話](https://zenn.dev/shimo_s3/articles/60a19c1edea76d)
+- [pytest, mock, patchについて整理したい](https://zenn.dev/shimo_s3/articles/9f486cfee75edc)
