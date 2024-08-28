@@ -1,4 +1,3 @@
-# Portfolio
 ## Chrome拡張
 
 - [re:Name FavBar](https://chrome.google.com/webstore/detail/rename-favbar/djibddceopnloddkfmgekaejflcnadli)
