@@ -1,3 +1,12 @@
+## Who am I
+[shimo_s3](https://x.com/shimo_s3) = [shimo164](https://github.com/shimo164)
+- Freelance IT engineer
+- AWS,Python
+  - AWS Community Builder (2022-)
+- Based in Osaka
+---
+作ったもの、書いたもの
+
 ## Chrome拡張
 
 - [re:Name FavBar](https://chrome.google.com/webstore/detail/rename-favbar/djibddceopnloddkfmgekaejflcnadli)
