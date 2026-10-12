@@ -7,6 +7,8 @@
 Twitter[@shimo_s3](https://x.com/shimo_s3)
 Github[@shimo164](https://github.com/shimo164)
 
+# Personal Projects
+
 ## Tech Blog
 
 English
@@ -26,7 +28,6 @@ Japanese
 - [EventBridgeをhh:mm:00のような時間で起動する(英語)](https://dev.to/aws-builders/trigger-precisely-at-hhmm00-with-eventbridge-and-lambda-1ia5)
 - [Glueのバグを見つけた話](https://zenn.dev/shimo_s3/articles/60a19c1edea76d)
 - [pytest, mock, patchについて整理したい](https://zenn.dev/shimo_s3/articles/9f486cfee75edc)
-# Personal Projects
 
 ## Chrome extension
 
