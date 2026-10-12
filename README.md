@@ -4,8 +4,8 @@
   - Tech stack: AWS, Azure, Python
   - AWS Community Builder (2022-)
 
-Twitter[@shimo_s3](https://x.com/shimo_s3)
-Github[@shimo164](https://github.com/shimo164)
+- Twitter: [@shimo_s3](https://x.com/shimo_s3)
+- Github: [@shimo164](https://github.com/shimo164)
 
 # Personal Projects
 
