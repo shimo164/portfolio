@@ -1,7 +1,7 @@
 # I am
 
 - a Software engineer based in Osaka, Japan
-  - Tech: AWS, Azure, Python
+  - Tech stack: AWS, Azure, Python
   - AWS Community Builder (2022-)
 
 Twitter[@shimo_s3](https://x.com/shimo_s3)
