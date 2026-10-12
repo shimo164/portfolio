@@ -1,12 +1,31 @@
 # I am
 
-- Software engineer based in Osaka, Japan
-  - AWS, Python
+- a Software engineer based in Osaka, Japan
+  - Tech: AWS, Azure, Python
   - AWS Community Builder (2022-)
 
 Twitter[@shimo_s3](https://x.com/shimo_s3)
 Github[@shimo164](https://github.com/shimo164)
 
+## Tech Blog
+
+English
+
+- [Medium](https://medium.com/@shimo164)
+- [DEVTO](https://dev.to/shimo_s3)
+
+Japanese
+
+- [Zenn](https://zenn.dev/shimo_s3)
+- [Qiita](https://qiita.com/shimo_s3)
+
+### Popular blog posts
+
+- [Lambdaの暴走をCloudWatchAlarmを使って止める(英語)](https://dev.to/aws-builders/suspend-any-lambda-functions-using-a-single-cloudwatch-alarm-na9)
+- [AWS Budgetのアラート設定を自動的にずらしていく(英語)](https://dev.to/aws-builders/aws-budgets-update-alert-thresholds-unlimitedly-with-lambda-5e7h)
+- [EventBridgeをhh:mm:00のような時間で起動する(英語)](https://dev.to/aws-builders/trigger-precisely-at-hhmm00-with-eventbridge-and-lambda-1ia5)
+- [Glueのバグを見つけた話](https://zenn.dev/shimo_s3/articles/60a19c1edea76d)
+- [pytest, mock, patchについて整理したい](https://zenn.dev/shimo_s3/articles/9f486cfee75edc)
 # Personal Projects
 
 ## Chrome extension
@@ -60,22 +79,4 @@ Github[@shimo164](https://github.com/shimo164)
 - [英語カード](https://shimo164.github.io/flash-cards/)
   - 英語の瞬間英作文用のカード。ビジネストピック
 
-## Tech Blog
 
-English
-
-- [Medium](https://medium.com/@shimo164)
-- [DEVTO](https://dev.to/shimo_s3)
-
-Japanese
-
-- [Zenn](https://zenn.dev/shimo_s3)
-- [Qiita](https://qiita.com/shimo_s3)
-
-### Popular blog posts
-
-- [Lambdaの暴走をCloudWatchAlarmを使って止める(英語)](https://dev.to/aws-builders/suspend-any-lambda-functions-using-a-single-cloudwatch-alarm-na9)
-- [AWS Budgetのアラート設定を自動的にずらしていく(英語)](https://dev.to/aws-builders/aws-budgets-update-alert-thresholds-unlimitedly-with-lambda-5e7h)
-- [EventBridgeをhh:mm:00のような時間で起動する(英語)](https://dev.to/aws-builders/trigger-precisely-at-hhmm00-with-eventbridge-and-lambda-1ia5)
-- [Glueのバグを見つけた話](https://zenn.dev/shimo_s3/articles/60a19c1edea76d)
-- [pytest, mock, patchについて整理したい](https://zenn.dev/shimo_s3/articles/9f486cfee75edc)
